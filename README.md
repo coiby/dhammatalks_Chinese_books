@@ -1,2 +1,4 @@
-# dhammatalks_Chinese_books
-Share Chinese translations of Thanissaro Bhikkhu's books.
+# 坦尼沙罗尊者中文翻译书籍
+
+[一呼一吸：禅修指南](一呼一吸_禅修指南.pdf)
+[围绕呼吸](围绕呼吸.pdf)
